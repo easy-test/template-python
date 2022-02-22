@@ -5,7 +5,7 @@ tasks:
       python -m pip install --upgrade pip setuptools wheel pip-tools robotframework bpython
       # python -m pip install --upgrade pip yapf autoflake isort coverage scrapy newspaper3k requests bs4 
       # python -m pip install --upgrade 'requests[socks]'
-      sudo apt-get install lynx direnv tor -y
+      sudo apt-get install yadm lynx direnv tor -y
       sh -c "$(curl -fsSL https://starship.rs/install.sh)" -y
     command: |
       echo 'TODO: start app'
