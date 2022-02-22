@@ -1,24 +1,27 @@
-# A Python Tor template on Gitpod
+# Шаблон Python Tor на Gitpod
 
-This is template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+Это шаблон, настроенный для временных сред разработки на [Gitpod](https://www.gitpod.io/).
 
 ## prebuild
+
 [![prebuild](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#prebuild/https://github.com/easy-quest/template-python)
+  
 
+## Начало работы с собственным проектом
 
-## Get Started With Your Own Project
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/easy-quest/template-python)
 
 
+### Новый проект
 
-### A new project
+Нажмите кнопку «Открыть в Gitpod» выше, чтобы начать новую рабочую область. Как только вы будете готовы отправить свои первые изменения в код,
+Gitpod поможет вам разветвить этот проект, чтобы вы владели им.
 
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, 
-Gitpod will guide you to fork this project so you own it.
 
-### An existing project
+### Существующий проект
 
-To get started with Python on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) 
-file which contains the configuration to improve the developer experience on Gitpod. 
-To learn more, please see the 
-[Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+Чтобы начать работу с Python на Gitpod, добавьте [`.gitpod.yml`](./.gitpod.yml)
+, который содержит конфигурацию для улучшения работы разработчика на Gitpod.
+Чтобы узнать больше, пожалуйста, смотрите
+
+[Начало работы](https://www.gitpod.io/docs/getting-started) документация.
